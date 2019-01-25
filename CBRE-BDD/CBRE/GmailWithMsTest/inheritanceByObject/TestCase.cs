@@ -10,7 +10,14 @@ namespace GmailWithMsTest.inheritanceByExtends
 {
     public class TestCase
     {
-        ReusableComponent myRc = new ReusableComponent();
+        public ReusableComponent myRc;
+        public TestCase()
+        {
+            Debug.WriteLine("Default Constructor of TC");
+            myRc = new ReusableComponent("firefox");
+    }
+        //public ReusableComponent myRc = new ReusableComponent();
+        
         //public void launchGmail()
         //{
         //    Debug.WriteLine("RC : Launch Application from TC");

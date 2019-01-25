@@ -1,4 +1,6 @@
-﻿using System;
+﻿using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -11,27 +13,30 @@ namespace MainMethod
     {
         static void Main(string[] cbre)
         {
+            IWebDriver driver = new ChromeDriver();
+            driver.Navigate().GoToUrl("https://gmail.com");
             Debug.WriteLine("WelCome To CBRE BDD ");
-            ComposeAndSendAnEmail();
-            replyToAnEmail();
-            forwardAnEmail();
-            deleteAnEmail();
-            ComposeAndSendAnEmail();
-            replyToAnEmail();
-            forwardAnEmail();
-            deleteAnEmail();
-            ComposeAndSendAnEmail();
-            replyToAnEmail();
-            forwardAnEmail();
-            deleteAnEmail();
-            ComposeAndSendAnEmail();
-            replyToAnEmail();
-            forwardAnEmail();
-            deleteAnEmail();
-            ComposeAndSendAnEmail();
-            replyToAnEmail();
-            forwardAnEmail();
-            deleteAnEmail();
+            Console.WriteLine("WelCome To CBRE BDD Console");
+            //ComposeAndSendAnEmail();
+            //replyToAnEmail();
+            //forwardAnEmail();
+            //deleteAnEmail();
+            //ComposeAndSendAnEmail();
+            //replyToAnEmail();
+            //forwardAnEmail();
+            //deleteAnEmail();
+            //ComposeAndSendAnEmail();
+            //replyToAnEmail();
+            //forwardAnEmail();
+            //deleteAnEmail();
+            //ComposeAndSendAnEmail();
+            //replyToAnEmail();
+            //forwardAnEmail();
+            //deleteAnEmail();
+            //ComposeAndSendAnEmail();
+            //replyToAnEmail();
+            //forwardAnEmail();
+            //deleteAnEmail();
         }
         //*****************Test Cases ***********************************
         private static void ComposeAndSendAnEmail()

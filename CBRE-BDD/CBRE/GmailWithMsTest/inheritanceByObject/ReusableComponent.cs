@@ -10,8 +10,16 @@ namespace GmailWithMsTest.inheritanceByExtends
 {
     public class ReusableComponent
     {
-        
-
+        //public ReusableComponent()
+        //{
+        //    Debug.WriteLine("Default Constructor of RC  will launch Chrome ");
+        //    //required code to launch default browser
+        //}
+        public ReusableComponent(string browser)
+        {
+            Debug.WriteLine("Default Constructor of RC  will launch browser : " + browser);
+            //required code to launch user specific browser
+        }
         //***********************Reusable Components *******************
         public void launchGmail()
         {

@@ -5,3 +5,14 @@ C:\WorkSpace\C-Sharp\CBRE-BDD\CBRE\GmailWithMsTest\bin\Debug\Microsoft.VisualStu
 C:\WorkSpace\C-Sharp\CBRE-BDD\CBRE\GmailWithMsTest\obj\Debug\GmailWithMsTest.dll
 C:\WorkSpace\C-Sharp\CBRE-BDD\CBRE\GmailWithMsTest\obj\Debug\GmailWithMsTest.pdb
 C:\WorkSpace\C-Sharp\CBRE-BDD\CBRE\GmailWithMsTest\obj\Debug\GmailWithMsTest.csprojResolveAssemblyReference.cache
+C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\GmailWithMsTest\bin\Debug\GmailWithMsTest.dll
+C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\GmailWithMsTest\bin\Debug\GmailWithMsTest.pdb
+C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\GmailWithMsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\GmailWithMsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\GmailWithMsTest\obj\Debug\GmailWithMsTest.csprojResolveAssemblyReference.cache
+C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\GmailWithMsTest\obj\Debug\GmailWithMsTest.dll
+C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\GmailWithMsTest\obj\Debug\GmailWithMsTest.pdb
+C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\GmailWithMsTest\bin\Debug\WebDriver.dll
+C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\GmailWithMsTest\bin\Debug\WebDriver.Support.dll
+C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\GmailWithMsTest\bin\Debug\WebDriver.xml
+C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\GmailWithMsTest\bin\Debug\WebDriver.Support.xml

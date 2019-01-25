@@ -12,7 +12,7 @@ namespace GmailWithMsTest.inheritanceByExtends
     public class TestSuite
     {
         TestCase myTc = new TestCase();
-        ReusableComponent myRc = new ReusableComponent();
+        //ReusableComponent myRc = new ReusableComponent();
         //public void launchGmail()
         //{
         //    Debug.WriteLine("RC : Launch Application from TS");
@@ -37,15 +37,14 @@ namespace GmailWithMsTest.inheritanceByExtends
         [TestInitialize]
         public void Preactions()
         {
-            
-            myRc.launchGmail();
-            myRc.loginToGmail();
+            myTc.myRc.launchGmail();
+            myTc.myRc.loginToGmail();
         }
         [TestCleanup]
         public void PostActions()
         {
-            myRc.logoutFromGmail();
-            myRc.closeGmail();
+            myTc.myRc.logoutFromGmail();
+            myTc.myRc.closeGmail();
         }
     }
 }
