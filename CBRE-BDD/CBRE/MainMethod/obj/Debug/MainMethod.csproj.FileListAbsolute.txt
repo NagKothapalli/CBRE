@@ -1,0 +1,9 @@
+C:\WorkSpace\C-Sharp\CBRE-BDD\CBRE\MainMethod\bin\Debug\MainMethod.exe.config
+C:\WorkSpace\C-Sharp\CBRE-BDD\CBRE\MainMethod\bin\Debug\MainMethod.exe
+C:\WorkSpace\C-Sharp\CBRE-BDD\CBRE\MainMethod\bin\Debug\MainMethod.pdb
+C:\WorkSpace\C-Sharp\CBRE-BDD\CBRE\MainMethod\obj\Debug\MainMethod.exe
+C:\WorkSpace\C-Sharp\CBRE-BDD\CBRE\MainMethod\obj\Debug\MainMethod.pdb
+C:\WorkSpace\C-Sharp\CBRE-BDD\CBRE\MainMethod\obj\Debug\MainMethod.csprojResolveAssemblyReference.cache
+C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\MainMethod\bin\Debug\MainMethod.exe.config
+C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\MainMethod\obj\Debug\MainMethod.exe
+C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\MainMethod\obj\Debug\MainMethod.pdb

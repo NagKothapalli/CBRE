@@ -1,0 +1,7 @@
+C:\WorkSpace\C-Sharp\CBRE-BDD\CBRE\GmailWithMsTest\bin\Debug\GmailWithMsTest.dll
+C:\WorkSpace\C-Sharp\CBRE-BDD\CBRE\GmailWithMsTest\bin\Debug\GmailWithMsTest.pdb
+C:\WorkSpace\C-Sharp\CBRE-BDD\CBRE\GmailWithMsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\WorkSpace\C-Sharp\CBRE-BDD\CBRE\GmailWithMsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\WorkSpace\C-Sharp\CBRE-BDD\CBRE\GmailWithMsTest\obj\Debug\GmailWithMsTest.dll
+C:\WorkSpace\C-Sharp\CBRE-BDD\CBRE\GmailWithMsTest\obj\Debug\GmailWithMsTest.pdb
+C:\WorkSpace\C-Sharp\CBRE-BDD\CBRE\GmailWithMsTest\obj\Debug\GmailWithMsTest.csprojResolveAssemblyReference.cache
