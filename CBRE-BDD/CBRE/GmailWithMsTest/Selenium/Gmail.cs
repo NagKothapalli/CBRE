@@ -10,37 +10,52 @@ using System.Threading.Tasks;
 using System.Collections.ObjectModel;
 using System.Threading;
 using OpenQA.Selenium.Support.UI;
+using System.Configuration;
+using OpenQA.Selenium.Interactions;
 
 namespace GmailWithMsTest.Selenium
 {
     [TestClass]
     public class Gmail
     {
+
         IWebDriver driver;
         private ReadOnlyCollection<IWebElement> elements;
         private IWebElement btnContainer;
         IWebElement element;
-
+        Actions myActions;
         public Gmail()
         {
             driver = new ChromeDriver();
+            myActions = new Actions(driver);
             
         }
         [TestInitialize]
         public void launchGmailApplication()
         {
-            
+            var url =  ConfigurationManager.AppSettings["URL"];
             //driver.Navigate().GoToUrl("https://gmail.com");
             driver.Navigate().GoToUrl("https://staging99.arbella.com");
+            //driver.Navigate().GoToUrl("http://newtours.demoaut.com");
+            //driver.Navigate().GoToUrl(ConfigurationManager.AppSettings["URL"]);
             string sessionID = driver.CurrentWindowHandle;
             Debug.WriteLine("Window Sesion ID :" + sessionID);
             Debug.WriteLine("Current URl :" + driver.Url);
             Debug.WriteLine("Current URl :" + driver.Title);
         }
         [TestMethod]
+        public void WorkWithActions()
+        {
+          IWebElement UserNameObj =  driver.FindElement(By.Name("username"));
+            myActions.MoveToElement(UserNameObj).ContextClick().Build().Perform();
+            myActions.MoveToElement(UserNameObj).DoubleClick().Build().Perform();
+         // myActions.MoveToElement(UserNameObj).Click().SendKeys("Cigniti").SendKeys(Keys.Tab).SendKeys("Arb3lla01").SendKeys(Keys.Tab).SendKeys(Keys.Enter).Build().Perform();
+        }
+        [TestMethod]
         public void loginToArbella_Submit()
         {
-            EnterUserDetails("Cigniti", "Arb3lla01");
+            EnterUserDetails(ConfigurationManager.AppSettings["UserName"], ConfigurationManager.AppSettings["PassWord"]);
+            //EnterUserDetails("Cigniti", "Arb3lla01");
             SubmitContainer("Submit");
             //btnContainer =  driver.FindElement(By.Id("buttonContainer"));
             //elements = btnContainer.FindElements(By.TagName("input"));
@@ -63,6 +78,14 @@ namespace GmailWithMsTest.Selenium
             //btnContainer = driver.FindElement(By.Id("buttonContainer"));
             //elements = btnContainer.FindElements(By.TagName("input"));
             //SelectAnElementFromCollection(elements, "value", "Cancel");
+        }
+        [TestMethod]
+        public void MouseOver()
+        {
+            loginToArbella_Submit();
+            IWebElement Reports = driver.FindElement(By.Id("ulaitem0z5"));
+            Actions myActions = new Actions(driver);
+            myActions.MoveToElement(Reports).Build().Perform();
         }
         [TestMethod]
         public void CreateQuote_HomeOwners()

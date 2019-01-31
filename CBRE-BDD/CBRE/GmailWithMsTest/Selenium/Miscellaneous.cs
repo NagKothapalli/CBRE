@@ -21,8 +21,8 @@ namespace GmailWithMsTest.Selenium
         [TestInitialize]
         public void launchApsrtc()
         {
-            //driver.Navigate().GoToUrl("https://apsrtconline.in");
-            driver.Navigate().GoToUrl("http://newtours.demoaut.com/");
+            driver.Navigate().GoToUrl("https://apsrtconline.in");
+            //driver.Navigate().GoToUrl("http://newtours.demoaut.com/");
         }
         
         [TestMethod]
@@ -66,11 +66,29 @@ namespace GmailWithMsTest.Selenium
                 if(columns[0].GetAttribute("innerText").Equals("Los Angeles to Chicago"))
                 {
                     column = columns[1];
+                    //column.Click();
+                    //column.SendKeys("abcd");
                     Debug.WriteLine("Fare :" + column.GetAttribute("innerText"));
                     break;
                 }
 
             }
+        }
+        [TestMethod]
+        public void WorkWithWindowHandles()
+        {
+            driver.FindElement(By.XPath("//a[contains(@href,'timeTable')]")).Click();
+            driver.FindElement(By.PartialLinkText("City Services")).Click();
+            IReadOnlyCollection<string> AllWindows = driver.WindowHandles;
+            for(int i=0;i<AllWindows.Count;i++)
+            {
+                Debug.WriteLine("SessionIDs:" + AllWindows.ElementAt(i).ToString());
+            }
+            Debug.WriteLine("Current window Title:" + driver.Title);
+            driver.SwitchTo().Window(AllWindows.ElementAt(1));
+            Debug.WriteLine("Second window Title:" + driver.Title);
+            //driver.Close();
+            driver.Quit();
         }
 
     }
