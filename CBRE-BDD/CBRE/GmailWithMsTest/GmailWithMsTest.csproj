@@ -73,7 +73,9 @@
     <Compile Include="inheritanceByObject\TestCase.cs" />
     <Compile Include="inheritanceByObject\TestSuite.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Selenium\Collections.cs" />
     <Compile Include="Selenium\Gmail.cs" />
+    <Compile Include="Selenium\Miscellaneous.cs" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

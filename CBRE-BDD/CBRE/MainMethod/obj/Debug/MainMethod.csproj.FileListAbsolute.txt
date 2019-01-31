@@ -5,8 +5,6 @@ C:\WorkSpace\C-Sharp\CBRE-BDD\CBRE\MainMethod\obj\Debug\MainMethod.exe
 C:\WorkSpace\C-Sharp\CBRE-BDD\CBRE\MainMethod\obj\Debug\MainMethod.pdb
 C:\WorkSpace\C-Sharp\CBRE-BDD\CBRE\MainMethod\obj\Debug\MainMethod.csprojResolveAssemblyReference.cache
 C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\MainMethod\bin\Debug\MainMethod.exe.config
-C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\MainMethod\obj\Debug\MainMethod.exe
-C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\MainMethod\obj\Debug\MainMethod.pdb
 C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\MainMethod\bin\Debug\MainMethod.exe
 C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\MainMethod\bin\Debug\MainMethod.pdb
 C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\MainMethod\bin\Debug\WebDriver.dll
@@ -14,3 +12,5 @@ C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\MainMethod\bin\Debug\WebDriver.Suppo
 C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\MainMethod\bin\Debug\WebDriver.xml
 C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\MainMethod\bin\Debug\WebDriver.Support.xml
 C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\MainMethod\obj\Debug\MainMethod.csprojResolveAssemblyReference.cache
+C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\MainMethod\obj\Debug\MainMethod.exe
+C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\MainMethod\obj\Debug\MainMethod.pdb
