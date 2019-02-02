@@ -49,7 +49,7 @@ namespace GmailWithMsTest.Selenium
           IWebElement UserNameObj =  driver.FindElement(By.Name("username"));
             myActions.MoveToElement(UserNameObj).ContextClick().Build().Perform();
             myActions.MoveToElement(UserNameObj).DoubleClick().Build().Perform();
-         // myActions.MoveToElement(UserNameObj).Click().SendKeys("Cigniti").SendKeys(Keys.Tab).SendKeys("Arb3lla01").SendKeys(Keys.Tab).SendKeys(Keys.Enter).Build().Perform();
+            myActions.MoveToElement(UserNameObj).Click().SendKeys("Cigniti").SendKeys(Keys.Tab).SendKeys("Arb3lla01").SendKeys(Keys.Tab).SendKeys(Keys.Enter).Build().Perform();
         }
         [TestMethod]
         public void loginToArbella_Submit()

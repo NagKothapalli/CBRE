@@ -1,0 +1,35 @@
+﻿2019-02-01T13:49:09.1103918+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-02-01T13:49:09.1193829+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\nk185128\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-02-01T13:49:09.2286929+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-02-01T13:49:09.2296989+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\CBRE-SpecFlow\bin\Debug\CBRE-SpecFlow.dll
+2019-02-01T13:49:09.2306803+05:30;VSTestExecutionThread;Info;Profile: CBRE-SpecFlow
+2019-02-01T13:49:16.3325554+05:30;Thread#16;Info;starting test run
+2019-02-01T13:49:16.3596586+05:30;Thread#16;Info;Discovering target: Default
+2019-02-01T13:49:16.3606424+05:30;Thread#16;Info;Discovering tests from assembly: C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\CBRE-SpecFlow\bin\Debug\CBRE-SpecFlow.dll
+Appdomain Disposed
+Test Suite Dump
+#0: CBRE-SpecFlow/CBRE-SpecFlow - 
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2019-02-01T13:49:16.4448539+05:30;Thread#16;Info;test run finished
+2019-02-01T13:49:16.4458846+05:30;Thread#16;Info;publishing test results
+2019-02-01T13:49:16.5030434+05:30;Thread#16;Info;test results published
+2019-02-01T13:49:16.5040117+05:30;Thread#16;Info;generating reports
+2019-02-01T13:49:16.5100587+05:30;Thread#16;Info;creating 1 report(s)
+2019-02-01T13:49:16.5100587+05:30;Thread#16;Info;generate Report ReportTemplate.cshtml
+2019-02-01T13:49:17.6751234+05:30;Thread#16;Info;reports generated
+Total: 0
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0
+2019-02-01T13:49:17.6791355+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-02-01T13:49:17.6791355+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\TestResults\CBRE-SpecFlow_CBRE-SpecFlow_2019-02-01T134909.html'
+2019-02-01T13:49:17.6861526+05:30;VSTestExecutionThread;Info;Log file: file:///C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\TestResults\CBRE-SpecFlow_CBRE-SpecFlow_2019-02-01T134909.log

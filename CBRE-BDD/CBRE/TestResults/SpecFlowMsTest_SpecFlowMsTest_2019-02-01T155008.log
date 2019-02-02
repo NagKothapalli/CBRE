@@ -1,0 +1,209 @@
+﻿2019-02-01T15:50:08.3062439+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-02-01T15:50:08.3082640+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\nk185128\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-02-01T15:50:08.4165381+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-02-01T15:50:08.4175409+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\bin\Debug\SpecFlowMsTest.dll
+2019-02-01T15:50:08.4175409+05:30;VSTestExecutionThread;Info;Profile: SpecFlowMsTest
+2019-02-01T15:50:17.4646152+05:30;Thread#15;Info;starting test run
+2019-02-01T15:50:17.4716069+05:30;Thread#15;Info;Discovering target: Default
+2019-02-01T15:50:17.4726083+05:30;Thread#15;Info;Discovering tests from assembly: C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\bin\Debug\SpecFlowMsTest.dll
+Appdomain Disposed
+Test Suite Dump
+#0: SpecFlowMsTest/SpecFlowMsTest - 
+#1: Default - 
+#2: SpecFlowMsTest - 
+#3: Compose - 
+#6: Sent - 
+#4: Compose And Send An Email With Attachment - TestAssembly:SpecFlowMsTest/Feature:Compose/Scenario:Compose+And+Send+An+Email+With+Attachment
+#5: Compose And Send An Email WithOut Attachment - TestAssembly:SpecFlowMsTest/Feature:Compose/Scenario:Compose+And+Send+An+Email+WithOut+Attachment
+#7: SeeAllSentEmail - TestAssembly:SpecFlowMsTest/Feature:Sent/Scenario:SeeAllSentEmail
+#8: See All SentEmails With Attachments - TestAssembly:SpecFlowMsTest/Feature:Sent/Scenario:See+All+SentEmails+With+Attachments
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for SpecFlowMsTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:T:Before Test Run Hook
+Thread#0:T:Before Feature Hook
+Thread#0:T:Before Scenario Hook 3
+Thread#0:T:Before Scenario Hook 2
+Thread#0:T:Before Scenario Hook 1
+Thread#0:T:Before Scenario Block Hook
+Thread#0:B:Given I Launch And Login To Gmail Application
+Thread#0:T:Before Step Hook
+Thread#0:T:Launch Application
+Thread#0:T:Login To Application
+Thread#0:T:done: ComposeSteps.GivenILaunchAndLoginToGmailApplication() (0.0s)
+Thread#0:T:After Step Hook
+Thread#0:T:After Scenario Block Hook
+Thread#0:T:Before Scenario Block Hook
+Thread#0:B:When I Compose And Send An Email
+Thread#0:T:Before Step Hook
+Thread#0:T:Compose Email
+Thread#0:T:Send Email
+Thread#0:T:done: ComposeSteps.WhenIComposeAndSendAnEmail() (0.0s)
+Thread#0:T:After Step Hook
+Thread#0:T:After Scenario Block Hook
+Thread#0:T:Before Scenario Block Hook
+Thread#0:B:Then The Email Should be Sent Successfully
+Thread#0:T:Before Step Hook
+Thread#0:T:Validate Email is Sent Successfully
+Thread#0:T:done: ComposeSteps.ThenTheEmailShouldBeSentSuccessfully() (0.0s)
+Thread#0:T:After Step Hook
+Thread#0:T:After Scenario Block Hook
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #5 from normal test queue 
+Thread#0:Scheduler: considering testitem #5 for thread 0
+Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #5 for thread 0
+Thread#0:Scheduler: Test #5 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0:T:After Scenario Hook 1
+Thread#0:T:After Scenario Hook 2
+Thread#0:T:After Scenario Hook 3
+Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 0.1825037 seconds
+Thread#0: Test #5/0 is started on thread #0
+Thread#0:T:Before Scenario Hook 3
+Thread#0:T:Before Scenario Hook 2
+Thread#0:T:Before Scenario Hook 1
+Thread#0:T:Before Scenario Block Hook
+Thread#0:B:Given I Launch And Login To Gmail Application
+Thread#0:T:Before Step Hook
+Thread#0:T:Launch Application
+Thread#0:T:Login To Application
+Thread#0:T:done: ComposeSteps.GivenILaunchAndLoginToGmailApplication() (0.0s)
+Thread#0:T:After Step Hook
+Thread#0:T:After Scenario Block Hook
+Thread#0:T:Before Scenario Block Hook
+Thread#0:B:When I Compose And Send An Email Without Attachment
+Thread#0:T:Before Step Hook
+Thread#0:T:Compose Email WithOut Attachment
+Thread#0:T:done: ComposeSteps.WhenIComposeAndSendAnEmailWithoutAttachment() (0.0s)
+Thread#0:T:After Step Hook
+Thread#0:T:After Scenario Block Hook
+Thread#0:T:Before Scenario Block Hook
+Thread#0:B:Then The Email Should be Sent Successfully
+Thread#0:T:Before Step Hook
+Thread#0:T:Validate Email is Sent Successfully
+Thread#0:T:done: ComposeSteps.ThenTheEmailShouldBeSentSuccessfully() (0.0s)
+Thread#0:T:After Step Hook
+Thread#0:T:After Scenario Block Hook
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #7 from normal test queue 
+Thread#0:Scheduler: considering testitem #7 for thread 0
+Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #7 for thread 0
+Thread#0:Scheduler: Test #7 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0:T:After Scenario Hook 1
+Thread#0:T:After Scenario Hook 2
+Thread#0:T:After Scenario Hook 3
+Thread#0:T:After Feature Hook
+Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 0.0170465 seconds
+Thread#0: Test #7/0 is started on thread #0
+Thread#0:T:Before Feature Hook
+Thread#0:T:Before Scenario Hook 3
+Thread#0:T:Before Scenario Hook 2
+Thread#0:T:Before Scenario Hook 1
+Thread#0:T:Before Scenario Block Hook
+Thread#0:B:Given I Launch And Login To Gmail Application
+Thread#0:T:Before Step Hook
+Thread#0:T:Launch Application
+Thread#0:T:Login To Application
+Thread#0:T:done: ComposeSteps.GivenILaunchAndLoginToGmailApplication() (0.0s)
+Thread#0:T:After Step Hook
+Thread#0:T:After Scenario Block Hook
+Thread#0:T:Before Scenario Block Hook
+Thread#0:B:When I Navigate To Sent Items
+Thread#0:T:Before Step Hook
+Thread#0:T:Navigate To Sent Items
+Thread#0:T:done: SentSteps.WhenINavigateToSentItems() (0.0s)
+Thread#0:T:After Step Hook
+Thread#0:T:After Scenario Block Hook
+Thread#0:T:Before Scenario Block Hook
+Thread#0:B:Then I Should See All Sent Mails
+Thread#0:T:Before Step Hook
+Thread#0:T:See SentMails WithoutAttachment
+Thread#0:T:done: SentSteps.ThenIShouldSeeAllSentMails() (0.0s)
+Thread#0:T:After Step Hook
+Thread#0:T:After Scenario Block Hook
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #8 from normal test queue 
+Thread#0:Scheduler: considering testitem #8 for thread 0
+Thread#0:TestItem#8:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#8:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#8:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #8 for thread 0
+Thread#0:Scheduler: Test #8 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread#0:T:After Scenario Hook 1
+Thread#0:T:After Scenario Hook 2
+Thread#0:T:After Scenario Hook 3
+Thread#0: Test #7/0 is finished on thread #0 as Succeeded within 0.0110274 seconds
+Thread#0: Test #8/0 is started on thread #0
+Thread#0:T:Before Scenario Hook 3
+Thread#0:T:Before Scenario Hook 2
+Thread#0:T:Before Scenario Hook 1
+Thread#0:T:Before Scenario Block Hook
+Thread#0:B:Given I Launch And Login To Gmail Application
+Thread#0:T:Before Step Hook
+Thread#0:T:Launch Application
+Thread#0:T:Login To Application
+Thread#0:T:done: ComposeSteps.GivenILaunchAndLoginToGmailApplication() (0.0s)
+Thread#0:T:After Step Hook
+Thread#0:T:After Scenario Block Hook
+Thread#0:T:Before Scenario Block Hook
+Thread#0:B:When I Navigate To Sent Items
+Thread#0:T:Before Step Hook
+Thread#0:T:Navigate To Sent Items
+Thread#0:T:done: SentSteps.WhenINavigateToSentItems() (0.0s)
+Thread#0:T:After Step Hook
+Thread#0:T:After Scenario Block Hook
+Thread#0:T:Before Scenario Block Hook
+Thread#0:B:Then I Should See All Sent Mails With Attachment
+Thread#0:T:Before Step Hook
+Thread#0:T:See SentMails With Attachment
+Thread#0:T:done: SentSteps.ThenIShouldSeeAllSentMailsWithAttachment() (0.0s)
+Thread#0:T:After Step Hook
+Thread#0:T:After Scenario Block Hook
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0:T:After Scenario Hook 1
+Thread#0:T:After Scenario Hook 2
+Thread#0:T:After Scenario Hook 3
+Thread#0:T:After Feature Hook
+Thread#0:T:After Test Run Hook
+Thread#0: Test #8/0 is finished on thread #0 as Succeeded within 0.0220922 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2019-02-01T15:50:17.9047568+05:30;Thread#15;Info;test run finished
+2019-02-01T15:50:17.9057593+05:30;Thread#15;Info;publishing test results
+2019-02-01T15:50:17.9127799+05:30;Thread#15;Info;test results published
+2019-02-01T15:50:17.9137806+05:30;Thread#15;Info;generating reports
+2019-02-01T15:50:17.9188259+05:30;Thread#15;Info;creating 1 report(s)
+2019-02-01T15:50:17.9188259+05:30;Thread#15;Info;generate Report ReportTemplate.cshtml
+2019-02-01T15:50:18.9856619+05:30;Thread#15;Info;reports generated
+Total: 4
+Succeeded: 4
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 0
+2019-02-01T15:50:18.9896422+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-02-01T15:50:18.9906436+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\TestResults\SpecFlowMsTest_SpecFlowMsTest_2019-02-01T155008.html'
+2019-02-01T15:50:18.9976628+05:30;VSTestExecutionThread;Info;Log file: file:///C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\TestResults\SpecFlowMsTest_SpecFlowMsTest_2019-02-01T155008.log

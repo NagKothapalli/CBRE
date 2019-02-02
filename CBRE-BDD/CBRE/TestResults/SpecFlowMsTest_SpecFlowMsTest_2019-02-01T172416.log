@@ -1,0 +1,93 @@
+﻿2019-02-01T16:02:29.1852100+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-02-01T16:02:31.5946154+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\nk185128\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-02-01T16:02:31.7159384+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-02-01T16:02:31.7169413+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\bin\Debug\SpecFlowMsTest.dll
+2019-02-01T16:02:31.7179427+05:30;VSTestExecutionThread;Info;Profile: SpecFlowMsTest
+2019-02-01T16:02:40.7940663+05:30;VSTestExecutionThread;Info;starting test run
+2019-02-01T16:02:40.8011112+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2019-02-01T16:02:40.8011112+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\bin\Debug\SpecFlowMsTest.dll
+2019-02-01T16:02:41.2061632+05:30;VSTestExecutionThread;Info;test run finished
+2019-02-01T16:02:41.2091714+05:30;VSTestExecutionThread;Info;publishing test results
+2019-02-01T16:02:41.2151859+05:30;VSTestExecutionThread;Info;test results published
+2019-02-01T16:02:41.2161888+05:30;VSTestExecutionThread;Info;generating reports
+2019-02-01T16:02:41.2212291+05:30;VSTestExecutionThread;Info;creating 1 report(s)
+2019-02-01T16:02:41.2222185+05:30;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2019-02-01T16:02:42.2699896+05:30;VSTestExecutionThread;Info;reports generated
+2019-02-01T16:02:42.2740003+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-02-01T16:02:42.2750045+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\TestResults\SpecFlowMsTest_SpecFlowMsTest_2019-02-01T160231.html'
+2019-02-01T16:02:42.2820223+05:30;VSTestExecutionThread;Info;Log file: file:///C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\TestResults\SpecFlowMsTest_SpecFlowMsTest_2019-02-01T160231.log
+2019-02-01T16:02:42.2850308+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2019-02-01T16:13:41.5585699+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-02-01T16:13:41.5585699+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\nk185128\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-02-01T16:13:41.5876731+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-02-01T16:13:41.5886752+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\bin\Debug\SpecFlowMsTest.dll
+2019-02-01T16:13:41.5896520+05:30;VSTestExecutionThread;Info;Profile: SpecFlowMsTest
+2019-02-01T16:13:55.5943471+05:30;VSTestExecutionThread;Info;starting test run
+2019-02-01T16:13:55.5952057+05:30;VSTestExecutionThread;Info;Discovering target: Default
+2019-02-01T16:13:55.5952057+05:30;VSTestExecutionThread;Info;Discovering tests from assembly: C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\bin\Debug\SpecFlowMsTest.dll
+2019-02-01T16:13:55.8789562+05:30;VSTestExecutionThread;Info;test run finished
+2019-02-01T16:13:55.8789562+05:30;VSTestExecutionThread;Info;publishing test results
+2019-02-01T16:13:55.8799591+05:30;VSTestExecutionThread;Info;test results published
+2019-02-01T16:13:55.8799591+05:30;VSTestExecutionThread;Info;generating reports
+2019-02-01T16:13:55.8809619+05:30;VSTestExecutionThread;Info;creating 1 report(s)
+2019-02-01T16:13:55.8809619+05:30;VSTestExecutionThread;Info;generate Report ReportTemplate.cshtml
+2019-02-01T16:13:56.6921185+05:30;VSTestExecutionThread;Info;reports generated
+2019-02-01T16:13:56.6941231+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-02-01T16:13:56.6951277+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\TestResults\SpecFlowMsTest_SpecFlowMsTest_2019-02-01T161341.html'
+2019-02-01T16:13:56.6991380+05:30;VSTestExecutionThread;Info;Log file: file:///C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\TestResults\SpecFlowMsTest_SpecFlowMsTest_2019-02-01T161341.log
+2019-02-01T16:13:56.7001402+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution finished
+2019-02-01T17:24:16.4411987+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-02-01T17:24:16.4421821+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\nk185128\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-02-01T17:24:16.4722631+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-02-01T17:24:16.4732667+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\bin\Debug\SpecFlowMsTest.dll
+2019-02-01T17:24:16.4732667+05:30;VSTestExecutionThread;Info;Profile: SpecFlowMsTest
+2019-02-01T17:24:22.4793874+05:30;Thread#12;Info;starting test run
+2019-02-01T17:24:22.4802323+05:30;Thread#12;Info;Discovering target: Default
+2019-02-01T17:24:22.4812348+05:30;Thread#12;Info;Discovering tests from assembly: C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\bin\Debug\SpecFlowMsTest.dll
+Appdomain Disposed
+Test Suite Dump
+#0: SpecFlowMsTest/SpecFlowMsTest - 
+#1: Default - 
+#2: SpecFlowMsTest - 
+#3: Compose - 
+#4: Compose And Send An Email With Attachment - TestAssembly:SpecFlowMsTest/Feature:Compose/Scenario:Compose+And+Send+An+Email+With+Attachment
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for SpecFlowMsTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:T:Before Test Run Hook
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0:T:Before Test Run Hook
+Thread#0: Test #4/0 is finished on thread #0 as InitializationFailed within 0.1794776 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2019-02-01T17:24:22.7730094+05:30;Thread#12;Info;test run finished
+2019-02-01T17:24:22.7740123+05:30;Thread#12;Info;publishing test results
+2019-02-01T17:24:22.7750422+05:30;Thread#12;Info;test results published
+2019-02-01T17:24:22.7750422+05:30;Thread#12;Info;generating reports
+2019-02-01T17:24:22.7760282+05:30;Thread#12;Info;creating 1 report(s)
+2019-02-01T17:24:22.7760282+05:30;Thread#12;Info;generate Report ReportTemplate.cshtml
+2019-02-01T17:24:23.5972005+05:30;Thread#12;Info;reports generated
+Total: 1
+Succeeded: 0
+Ignored: 0
+Pending: 0
+Skipped: 0
+Failed: 1
+2019-02-01T17:24:23.5992047+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-02-01T17:24:23.6002083+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\TestResults\SpecFlowMsTest_SpecFlowMsTest_2019-02-01T172416.html'
+2019-02-01T17:24:23.6042193+05:30;VSTestExecutionThread;Info;Log file: file:///C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\TestResults\SpecFlowMsTest_SpecFlowMsTest_2019-02-01T172416.log

@@ -1,0 +1,63 @@
+﻿2019-02-01T14:10:42.8731409+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 1.8.5 execution started
+2019-02-01T14:10:42.8861425+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\nk185128\AppData\Local\Temp\VisualStudioTestExplorerExtensions\SpecRun.Runner.1.8.5\tools\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-02-01T14:10:43.0124780+05:30;VSTestExecutionThread;Info;SpecRun Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-02-01T14:10:43.0134808+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\BDD-SpecRun\bin\Debug\BDD-SpecRun.dll
+2019-02-01T14:10:43.0144844+05:30;VSTestExecutionThread;Info;Profile: BDD-SpecRun
+2019-02-01T14:10:49.0736217+05:30;Thread#8;Info;starting test run
+2019-02-01T14:10:49.0806109+05:30;Thread#8;Info;Discovering target: Default
+2019-02-01T14:10:49.0816123+05:30;Thread#8;Info;Discovering tests from assembly: C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\BDD-SpecRun\bin\Debug\BDD-SpecRun.dll
+Appdomain Disposed
+Test Suite Dump
+#0: BDD-SpecRun/BDD-SpecRun - 
+#1: Default - 
+#2: BDD-SpecRun - 
+#3: Test - 
+#4: Add two numbers - TestAssembly:BDD-SpecRun/Feature:Test/Scenario:Add+two+numbers
+End: Test Suite Dump
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: testitem #4 from normal test queue 
+Thread#0:Scheduler: considering testitem #4 for thread 0
+Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+Thread#0:Scheduler: using testitem #4 for thread 0
+Thread#0:Scheduler: Test #4 is scheduled for thread
+Thread#0:Scheduler: with testItemExecutionIndex 0
+Thread #0: creating new test thread executor for BDD-SpecRun, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+Thread#0: Test #4/0 is started on thread #0
+Thread#0:T:-> Using app.config
+Thread#0:B:Given I have entered 50 into the calculator
+Thread#0:T:pending: TestSteps.GivenIHaveEnteredIntoTheCalculator(50)
+Thread#0:B:And I have entered 70 into the calculator
+Thread#0:T:skipped because of previous errors
+Thread#0:B:When I press add
+Thread#0:T:skipped because of previous errors
+Thread#0:B:Then the result should be 120 on the screen
+Thread#0:T:skipped because of previous errors
+Thread#0:T:Pending: One or more step definitions are not implemented yet.
+Thread#0:T:  TestSteps.GivenIHaveEnteredIntoTheCalculator(50)
+Thread#0:Scheduler: get next test for thread 0
+Thread#:Scheduler: at the end of normal test queue
+Thread#0:Scheduler: enumerator for thread is at end
+Thread#0:Scheduler: No more tests for thread
+Thread#0: Test #4/0 is finished on thread #0 as Pending within 0.1894736 seconds
+Appdomain Disposed
+Thread#-1:Scheduler: get next test for thread -1
+Thread#:Scheduler: at the end of normal test queue
+Thread#-1:Scheduler: enumerator for thread is at end
+2019-02-01T14:10:49.4776945+05:30;Thread#8;Info;test run finished
+2019-02-01T14:10:49.4786800+05:30;Thread#8;Info;publishing test results
+2019-02-01T14:10:49.4856837+05:30;Thread#8;Info;test results published
+2019-02-01T14:10:49.4866866+05:30;Thread#8;Info;generating reports
+2019-02-01T14:10:49.4927357+05:30;Thread#8;Info;creating 1 report(s)
+2019-02-01T14:10:49.4927357+05:30;Thread#8;Info;generate Report ReportTemplate.cshtml
+2019-02-01T14:10:50.5274536+05:30;Thread#8;Info;reports generated
+Total: 1
+Succeeded: 0
+Ignored: 0
+Pending: 1
+Skipped: 0
+Failed: 0
+2019-02-01T14:10:50.5314653+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-02-01T14:10:50.5324661+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\TestResults\BDD-SpecRun_BDD-SpecRun_2019-02-01T141043.html'
+2019-02-01T14:10:50.5404874+05:30;VSTestExecutionThread;Info;Log file: file:///C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\TestResults\BDD-SpecRun_BDD-SpecRun_2019-02-01T141043.log
