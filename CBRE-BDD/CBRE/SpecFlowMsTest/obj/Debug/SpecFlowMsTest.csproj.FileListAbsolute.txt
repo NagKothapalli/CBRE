@@ -42,7 +42,6 @@ C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\bin\Debug\Default.srp
 C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\bin\Debug\SpecFlowMsTest.dll.config
 C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\bin\Debug\SpecFlowMsTest.dll
 C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\bin\Debug\SpecFlowMsTest.pdb
-C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\bin\Debug\Newtonsoft.Json.dll
 C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\bin\Debug\nunit.framework.dll
 C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\bin\Debug\SpecRun.SpecFlowPlugin.dll
@@ -58,7 +57,6 @@ C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\bin\Debug\nunit.frame
 C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\bin\Debug\nunit.framework.xml
 C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\bin\Debug\WebDriver.xml
 C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\bin\Debug\WebDriver.Support.xml
-C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
 C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\obj\Debug\SpecFlowMsTest.csprojResolveAssemblyReference.cache
 C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\obj\Debug\SpecFlowMsTest.dll
 C:\WorkSpace\C-Sharp\CBRE-Git\CBRE-BDD\CBRE\SpecFlowMsTest\obj\Debug\SpecFlowMsTest.pdb

@@ -1,4 +1,5 @@
 ﻿using OpenQA.Selenium;
+using OpenQA.Selenium.Chrome;
 using SpecFlowMsTest.Utilities;
 using System;
 using System.Collections.Generic;
@@ -12,7 +13,7 @@ namespace SpecFlowMsTest.PageObjects
     [Binding]
     public class Hooks
     {
-        static TestSetUp _testSetUp;
+        static TestSetUp testSetUp;
         public static IWebDriver driver;
         public Hooks()
         {
@@ -22,8 +23,8 @@ namespace SpecFlowMsTest.PageObjects
         public static void BeforeTestRun()
         {
             Console.WriteLine("Before Test Run Hook");
-            _testSetUp = new TestSetUp();
-            driver = _testSetUp.BringMyDriver();
+            //testSetUp = new TestSetUp();
+            driver = new TestSetUp().BringMyDriver();
         }
         [AfterTestRun]
         public static void AfterTestRun()
